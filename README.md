@@ -1,7 +1,5 @@
 # Americano-Challenge-2
 
-AI Rep Counter for Apple Watch (A Learning Project)
-
 This repository documents my learning journey in developing for watchOS and implementing Create ML. The project was born from the curiosity to deconstruct an existing application ("AI Rep Counter With Apple Watch") to understand the technology behind rep counting using sensors and artificial intelligence.
 
 The final goal was to build a functional curl counting app from scratch, starting from data collection all the way to model implementation.
